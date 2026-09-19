@@ -1,0 +1,8 @@
+export const products = [
+  { id:"neon-nights", title:"Neon Nights", category:"Stream Banner", price:"Rp 850K", image:"https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1200&q=85", description:"Stream banner dengan nuansa neon yang bikin channel kamu langsung terlihat hidup." },
+  { id:"ruang-cerita", title:"Ruang Cerita", category:"Thumbnail", price:"Rp 450K", image:"https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1200&q=85", description:"Thumbnail editorial berani untuk cerita, video, dan campaign yang ingin mencuri perhatian." },
+  { id:"after-hours", title:"After Hours", category:"Branding", price:"Rp 2.5M", image:"https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=1200&q=85", description:"Identitas visual lengkap dengan karakter kuat, fleksibel, dan mudah dikenali." },
+  { id:"pixel-pop", title:"Pixel Pop", category:"Social Media", price:"Rp 1.2M", image:"https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=85", description:"Paket social media kit untuk menjaga feed tetap konsisten dan penuh energi." },
+  { id:"pink-radio", title:"Pink Radio", category:"Stream Banner", price:"Rp 950K", image:"https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?auto=format&fit=crop&w=1200&q=85", description:"Visual stream pink yang playful untuk creator dengan personality besar." },
+  { id:"loud-type", title:"Loud Type", category:"Poster", price:"Rp 650K", image:"https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1200&q=85", description:"Poster campaign dengan tipografi ekspresif dan komposisi yang tidak membosankan." },
+]
